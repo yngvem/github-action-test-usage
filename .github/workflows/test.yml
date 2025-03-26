@@ -7,4 +7,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - id: foo
-        uses: yngvem/github-action-test@942e4ece6a60a11cf349cab8e610d6f34fe81281
+        uses: yngvem/github-action-test@942e4ec
